@@ -38,6 +38,6 @@ popd
 #### END - Building the chainlit project ####
 
 # install app dependencies
-python3 -m pip install -r requirements.txt
+# python3 -m pip install -r $SCRIPT_DIR/requirements.txt
 
 echo "assistant app setup complete"
