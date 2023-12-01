@@ -1,4 +1,4 @@
-chainlit/src/dist/chainlit-0.6.3-py3-none-any.whl
+aws-iot-twinmaker-samples/src/workspaces/cookiefactoryv3/assistant/chainlit/src/dist/chainlit-0.6.3-py3-none-any.whl
 python-dotenv==1.0.0
 langchain==0.0.252
 google-search-results
